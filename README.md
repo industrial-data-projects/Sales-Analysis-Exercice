@@ -4,7 +4,6 @@
 ![pandas](https://img.shields.io/badge/pandas-data%20wrangling-150458?logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-interactive%20charts-3F4F75?logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 End-to-end exploratory data analysis of **12 months of sales transactions (~186k rows)** from a US electronics retailer.
 The project merges raw monthly exports, audits and cleans the data with a logged pipeline, engineers time and location features, and answers five business questions with interactive **Plotly** visualisations.
@@ -121,6 +120,3 @@ Run all cells from top to bottom. Outputs are written to `output/`:
 - Monthly sales forecasting
 - Interactive dashboard (Dash or Streamlit)
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
