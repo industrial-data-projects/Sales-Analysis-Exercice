@@ -91,7 +91,6 @@ sales-analysis/
 ├── Sales_Analysis.ipynb       # main notebook
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
